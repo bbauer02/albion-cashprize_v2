@@ -1,0 +1,17 @@
+{
+  "name": "discord-cashprize2",
+  "version": "2.0.0",
+  "description": "This Bot allow you  to manage the cash prize between your guildmates after a nice Player vs Player session ! ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Bauer Baptiste",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20"
+  }
+}

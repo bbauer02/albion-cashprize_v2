@@ -1,0 +1,10 @@
+{
+  "token": "MTA0MjQ1Mzg5MzU2NjcwOTc2MA.GdPEH4.wY8CqfjAhy-XahApoG8FjaWKDUVeuPAsFyXg50",
+  "db" : {
+    "mongodb": {
+      "user" : "cashprizev2",
+      "password" : "LPdXSvBkphSdtz2A",
+      "uri" : "mongodb+srv://cashprizev2:LPdXSvBkphSdtz2A@cluster0.fcoekqd.mongodb.net/?retryWrites=true&w=majority"
+    }
+  }
+}
